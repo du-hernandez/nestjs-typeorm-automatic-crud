@@ -1,5 +1,5 @@
 # nestjs-typeorm-automatic-crud
-Example project with Nestjs and TypeOrm. @ Nestjsx / crud is used for the automatic creation of the CRUD by entity. Basado en el artículo https://rohanfaiyaz.com/post/nest/ de [Rohan Faiyaz Khan](https://rohanfaiyaz.com/)
+Example project with Nestjs and TypeOrm. @Nestjsx/crud is used for the automatic creation of the CRUD by entity. Basado en el artículo https://rohanfaiyaz.com/post/nest/ de [Rohan Faiyaz Khan](https://rohanfaiyaz.com/)
 
 ## Tech-stack
 1. [NestJS - v7.0.0](https://nestjs.com/)
